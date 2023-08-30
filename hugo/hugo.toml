@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://defenestration.github.io/'
 languageCode = 'en-us'
 
-title = "johndoe"
+title = "defenestration"
 theme = "hugo-coder"
 defaultcontentlanguage = "en"
 
@@ -14,9 +14,9 @@ noClasses = false
 style = "monokai"
 
 [params]
-  author = "John Doe"
+  author = "Alan B"
   info = "Stuff"
-  description = "John Doe's personal website"
+  description = "Alan B's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
@@ -25,7 +25,7 @@ style = "monokai"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2009
 
   enableTwemoji = true
 
@@ -47,17 +47,7 @@ style = "monokai"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://github.com/defenestration/"
 
 # Menu links
 [[menu.main]]
